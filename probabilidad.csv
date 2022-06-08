@@ -10,7 +10,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 16,Moodle,1,1,0.04
 16,SAP Analytics Cloud,1,1,0.04
 16,Zoom,1,1,0.04
-16,Ninguno,0,0,0.0
 15,Odoo,10,10,0.23255813953488372
 15,Littlefield,8,8,0.18604651162790697
 15,SAP,6,6,0.13953488372093023
@@ -24,7 +23,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 15,Outlook,1,1,0.023255813953488372
 15,Phyton,1,1,0.023255813953488372
 15,SPSS,1,1,0.023255813953488372
-15,Ninguno,0,0,0.0
 14,Odoo,10,10,0.25
 14,SAP,9,9,0.225
 14,SPSS,3,3,0.075
@@ -41,7 +39,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 14,Stata,1,1,0.025
 14,Tableau,1,1,0.025
 14,Zoom,1,1,0.025
-14,Ninguno,0,0,0.0
 13,Odoo,12,12,0.22641509433962265
 13,SAP,10,10,0.18867924528301888
 13,R,6,6,0.11320754716981132
@@ -59,7 +56,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 13,OpenSesame,1,1,0.018867924528301886
 13,Power BI,1,1,0.018867924528301886
 13,SAP Cloud Predictive - Tableau,1,1,0.018867924528301886
-13,Ninguno,0,0,0.0
 12,SAP,11,11,0.21153846153846154
 12,Odoo,8,8,0.15384615384615385
 12,R,6,6,0.11538461538461539
@@ -80,7 +76,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 12,Power BI,1,1,0.019230769230769232
 12,STATA,1,1,0.019230769230769232
 12,Tableros Digitales,1,1,0.019230769230769232
-12,Ninguno,0,0,0.0
 11,SAP,10,10,0.2
 11,Odoo,8,8,0.16
 11,R,8,8,0.16
@@ -99,7 +94,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 11,Microsoft Project,1,1,0.02
 11,Referenciación,1,1,0.02
 11,Stream Yard,1,1,0.02
-11,Ninguno,0,0,0.0
 10,Odoo,14,14,0.25
 10,R,14,14,0.25
 10,NVivo,4,4,0.07142857142857142
@@ -115,7 +109,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 10,Latex,1,1,0.017857142857142856
 10,Power BI,1,1,0.017857142857142856
 10,Python,1,1,0.017857142857142856
-10,Ninguno,0,0,0.0
 9,SPSS,14,14,0.22950819672131148
 9,Odoo,11,11,0.18032786885245902
 9,Excel,5,5,0.08196721311475409
@@ -136,7 +129,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 9,Power BI,1,1,0.01639344262295082
 9,Python,1,1,0.01639344262295082
 9,Stream Yard,1,1,0.01639344262295082
-9,Ninguno,0,0,0.0
 8,Microsoft Project,9,9,0.2
 8,R,6,6,0.13333333333333333
 8,SPSS,6,6,0.13333333333333333
@@ -154,7 +146,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 8,SAP,1,1,0.022222222222222223
 8,SAP Analytics Cloud,1,1,0.022222222222222223
 8,World Office,1,1,0.022222222222222223
-8,Ninguno,0,0,0.0
 7,SAP,9,9,0.16666666666666666
 7,Microsoft Project,7,7,0.12962962962962962
 7,NVivo,6,6,0.1111111111111111
@@ -173,7 +164,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 7,Stata,1,1,0.018518518518518517
 7,World Office,1,1,0.018518518518518517
 7,Z-Tree,1,1,0.018518518518518517
-7,Ninguno,0,0,0.0
 6,Microsoft Project,3,3,0.1111111111111111
 6,NVivo,3,3,0.1111111111111111
 6,R,3,3,0.1111111111111111
@@ -188,7 +178,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 6,Trello,1,1,0.037037037037037035
 6,World Office,1,1,0.037037037037037035
 6,Z-tree,1,1,0.037037037037037035
-6,Ninguno,0,0,0.0
 5,R,3,3,0.15
 5,Access,2,2,0.1
 5,Excel,2,2,0.1
@@ -202,7 +191,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 5,Python,1,1,0.05
 5,SAP,1,1,0.05
 5,SPSS,1,1,0.05
-5,Ninguno,0,0,0.0
 4,SAP,8,8,0.20512820512820512
 4,Excel,4,4,0.10256410256410256
 4,R,4,4,0.10256410256410256
@@ -219,7 +207,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 4,Odoo,1,1,0.02564102564102564
 4,Python,1,1,0.02564102564102564
 4,VPN,1,1,0.02564102564102564
-4,Ninguno,0,0,0.0
 3,R,5,5,0.23809523809523808
 3,Excel,4,4,0.19047619047619047
 3,Google Meet,2,2,0.09523809523809523
@@ -232,7 +219,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 3,SPSS,1,1,0.047619047619047616
 3,World Office,1,1,0.047619047619047616
 3,Youtube Live,1,1,0.047619047619047616
-3,Ninguno,0,0,0.0
 2,Excel,5,5,0.3333333333333333
 2,Moodle,2,2,0.13333333333333333
 2,Siigo,2,2,0.13333333333333333
@@ -242,7 +228,6 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 2,Microsoft Project,1,1,0.06666666666666667
 2,R,1,1,0.06666666666666667
 2,Referenciación,1,1,0.06666666666666667
-2,Ninguno,0,0,0.0
 1,Drive,2,2,0.09523809523809523
 1,Excel,2,2,0.09523809523809523
 1,Moodle,2,2,0.09523809523809523
@@ -258,4 +243,3 @@ Semana del semestre,Software,Id_Asistencia,Cantidad Total,Probabilidad
 1,Google Meet,1,1,0.047619047619047616
 1,Matlab,1,1,0.047619047619047616
 1,Meet,1,1,0.047619047619047616
-1,Ninguno,0,0,0.0
